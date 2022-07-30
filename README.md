@@ -2,7 +2,7 @@
 
 ## Demo
 #### Here is a working live demo :  https://cryptomoniter.netlify.app/
-![crypto]([./directory_1/directory_2/.../directory_n/plot.png](https://raw.githubusercontent.com/ioumesh/crypto/master/WhatsApp%20Image%202022-07-30%20at%2011.45.27%20AM.jpeg))
+![crypto]([https://raw.githubusercontent.com/ioumesh/crypto/master/crypto.jpeg))
 
 ## Built with 
 
