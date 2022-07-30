@@ -2,7 +2,8 @@
 
 ## Demo
 #### Here is a working live demo :  https://cryptomoniter.netlify.app/
-https://raw.githubusercontent.com/ioumesh/crypto/master/WhatsApp%20Image%202022-07-30%20at%2011.45.27%20AM.jpeg
+![alt text](https://raw.githubusercontent.com/ioumesh/crypto/master/WhatsApp%20Image%202022-07-30%20at%2011.45.27%20AM.jpeg
+
 ## Built with 
 
 - [React JS](https://reactjs.org/)
