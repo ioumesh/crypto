@@ -2,7 +2,7 @@
 
 ## Demo
 #### Here is a working live demo :  https://cryptomoniter.netlify.app/
-![crypto]([https://raw.githubusercontent.com/ioumesh/crypto/master/crypto.jpeg))
+![crypto](https://raw.githubusercontent.com/ioumesh/crypto/master/crypto.jpeg)
 
 ## Built with 
 
