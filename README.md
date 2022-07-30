@@ -2,7 +2,7 @@
 
 ## Demo
 #### Here is a working live demo :  https://cryptomoniter.netlify.app/
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)]
+[(https://github.com/ioumesh/crypto/blob/master/WhatsApp%20Image%202022-07-30%20at%2011.45.27%20AM.jpeg)]
 ## Built with 
 
 - [React JS](https://reactjs.org/)
